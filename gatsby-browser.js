@@ -1,5 +1,5 @@
 
-require('./node_modules/sal.js/dist/sal.css');
+require('sal.js/dist/sal.css');
 const React = require("react");
 const Wrapper = require('./src/Wrapper').default;
 

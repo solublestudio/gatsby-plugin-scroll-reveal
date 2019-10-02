@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-scroll-reveal",
-  "version": "0.0.1",
-  "description": "A plugin to reveal DOM elements on scroll.",
+  "version": "0.0.2",
+  "description": "Animate DOM elements on scroll changes.",
   "repository": "https://github.com/solublestudio/gatsby-plugin-scroll-reveal",
   "homepage": "https://github.com/solublestudio/gatsby-plugin-scroll-reveal#readme",
   "bugs": {
