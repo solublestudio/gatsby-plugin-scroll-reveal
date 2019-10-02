@@ -1,0 +1,31 @@
+{
+  "name": "gatsby-plugin-scroll-reveal",
+  "version": "0.0.1",
+  "description": "A plugin to reveal DOM elements on scroll.",
+  "repository": "https://github.com/solublestudio/gatsby-plugin-scroll-reveal",
+  "homepage": "https://github.com/solublestudio/gatsby-plugin-scroll-reveal#readme",
+  "bugs": {
+    "url": "https://github.com/solublestudio/gatsby-plugin-scroll-reveal/issues"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "scroll",
+    "scroll reveal",
+    "animation",
+    "sal"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf node_modules"
+  },
+  "author": "Soluble Studio <tech@solublestudio.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sal.js": "^0.6.2"
+  },
+  "peerDependencies": {
+    "gatsby": ">=2.0.0",
+    "react": "^16.8.0"
+  }
+}
