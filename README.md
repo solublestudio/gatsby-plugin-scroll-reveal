@@ -2,6 +2,8 @@
 
 Scroll gatsby plugin to animate DOM elements on scroll. We use [Sal (Scroll Animation Library)](https://mciastek.github.io/sal/) less than **2.8kb**, written in vanilla Javascript.
 
+To see how to use advanced options visit [Sal's docs](https://github.com/mciastek/sal).
+
 ## Install
 
 `yarn add gatsby-plugin-scroll-reveal`
@@ -52,10 +54,10 @@ plugins: [
 
 It will look for all HTML elements with a `data-sal` attribute and launch their animation when in viewport.
 
-- `data-sal` - attribute with the animation name as value **required**
-- `data-sal-duration` - changes duration of the animation (optional)
-- `data-sal-delay` - adds delay to the animation (optional)
-- `data-sal-easing` - sets easing for the animation (optional)
+- `data-sal` - attribute with the animation name as value - **required**
+- `data-sal-duration` - changes duration of the animation - *optional*
+- `data-sal-delay` - adds delay to the animation - *optional*
+- `data-sal-easing` - sets easing for the animation - *optional*
 
 For example:
 ```html
