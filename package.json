@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-scroll-reveal",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Animate DOM elements on scroll changes.",
   "repository": "https://github.com/solublestudio/gatsby-plugin-scroll-reveal",
   "homepage": "https://github.com/solublestudio/gatsby-plugin-scroll-reveal#readme",
@@ -23,7 +23,8 @@
   "author": "Soluble Studio <tech@solublestudio.com>",
   "license": "MIT",
   "dependencies": {
-    "sal.js": "^0.6.2"
+    "sal.js": "^0.6.2",
+    "intersection-observer": "^0.7.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.2",

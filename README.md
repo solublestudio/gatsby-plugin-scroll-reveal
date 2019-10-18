@@ -1,4 +1,6 @@
-# gatsby-plugin-scroll-reveal ✨ [![npm version](https://badge.fury.io/js/gatsby-plugin-scroll-reveal.svg)](https://badge.fury.io/js/gatsby-plugin-scroll-reveal) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/solublestudio/gatsby-plugin-scroll-reveal/blob/master/LICENSE)
+# gatsby-plugin-scroll-reveal ✨ 
+
+[![npm version](https://badge.fury.io/js/gatsby-plugin-scroll-reveal.svg)](https://badge.fury.io/js/gatsby-plugin-scroll-reveal) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/solublestudio/gatsby-plugin-scroll-reveal/blob/master/LICENSE)
 
 Gatsby plugin to animate DOM elements on scroll. Using [Sal (Scroll Animation Library)](https://mciastek.github.io/sal/) focus on performance less than **2.8kb**, written in vanilla Javascript.
 
