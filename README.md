@@ -46,9 +46,9 @@ plugins: [
         selector: '[data-sal]', // Selector of the elements to be animated
         animateClassName: 'sal-animate', // Class name which triggers animation
         disabledClassName: 'sal-disabled', // Class name which defines the disabled state
-        rootMargin: '0% 50%' // Corresponds to root's bounding box margin
-        enterEventName: 'sal:in' // Enter event name
-        exitEventName: 'sal:out' // Exit event name
+        rootMargin: '0% 50%', // Corresponds to root's bounding box margin
+        enterEventName: 'sal:in', // Enter event name
+        exitEventName: 'sal:out', // Exit event name
     }
   }
 ];
