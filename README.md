@@ -89,6 +89,10 @@ The library supports:
 
 This plugin is not compatible anymore with Gatsby v1, you should update to the version 2.0.0.
 
+## Collaborate
+
+We are open to new functionalities or fix bugs. If you want to collaborate to improve this plugin, just make a pull request 🤗
+
 ## License
 
 Created by [Soluble Studio](https://www.solublestudio.com/). Released under the [MIT License](https://github.com/solublestudio/gatsby-plugin-scroll-reveal/blob/master/LICENSE).
