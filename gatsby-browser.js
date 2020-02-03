@@ -8,7 +8,7 @@ var _regenerator = _interopRequireDefault(require("@babel/runtime/regenerator"))
 
 var _asyncToGenerator2 = _interopRequireDefault(require("@babel/runtime/helpers/asyncToGenerator"));
 
-var _jsxFileName = "/Users/jorge/Projects/soluble-web/plugins/scroll-reveal-plugin/src/gatsby-browser.js";
+var _jsxFileName = "/Users/jorge/Projects/github-soluble-web/plugins/scroll-reveal-plugin/src/gatsby-browser.js";
 
 require('sal.js/dist/sal.css');
 
