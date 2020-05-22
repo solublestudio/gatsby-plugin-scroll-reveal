@@ -28,6 +28,8 @@ plugins: [
 ];
 ```
 
+**Note**: If you are using [Gatsby Plugin Transition Link](https://www.gatsbyjs.org/packages/gatsby-plugin-transition-link/) add this plugin first in the config.
+
 ## Options
 
 Here is a full list of options with their default values you can use to configure this plugin.

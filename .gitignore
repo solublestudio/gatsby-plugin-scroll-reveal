@@ -1,7 +1,2 @@
 node_modules
 .DS_Store
-dist/*
-/index.js
-
-/gatsby-browser.js
-/Wrapper.js
