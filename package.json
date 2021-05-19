@@ -23,8 +23,8 @@
   "author": "Soluble Studio <tech@solublestudio.com>",
   "license": "MIT",
   "dependencies": {
-    "sal.js": "^0.6.2",
-    "intersection-observer": "^0.7.0"
+    "sal.js": "^0.8.5",
+    "intersection-observer": "^0.12.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
@@ -32,6 +32,6 @@
   },
   "peerDependencies": {
     "gatsby": ">=2.0.0",
-    "react": "^16.8.0"
+    "react": ">=16.8.0"
   }
 }
